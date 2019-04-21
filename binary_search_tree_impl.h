@@ -1,6 +1,7 @@
 #pragma once
 
 #include "binary_search_tree.h"
+
 #include <memory>
 #include <cassert>
 #include <queue>
